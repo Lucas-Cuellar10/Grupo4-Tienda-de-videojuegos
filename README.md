@@ -1,8 +1,8 @@
-#   GameStore – Tienda de Videojuegos
+#  GameStore – Tienda de Videojuegos
 
 Proyecto integrador de **Algoritmos y Estructuras de Datos 2 (AED2)**.
 
-## Descripción
+##  Descripción
 
 GameStore es un emprendimiento ficticio dedicado a la venta de videojuegos para distintas plataformas, como PC, PlayStation y Xbox.
 
@@ -12,7 +12,7 @@ Este proyecto propone desarrollar un sistema de gestión para administrar el cat
 
 La tienda necesita una herramienta que permita mantener organizado su catálogo y facilite el registro, la búsqueda, la eliminación y la consulta de disponibilidad de sus productos.
 
-## Tema y estructuras de datos
+##  Tema y estructuras de datos
 
 El proyecto trabaja los contenidos de **Clase 6: Colecciones y Listas**. Se utilizarán las interfaces `List` y las implementaciones `ArrayList` de Java para almacenar y administrar videojuegos. También se organizarán colecciones de videojuegos según su plataforma.
 
@@ -33,11 +33,11 @@ El proyecto trabaja los contenidos de **Clase 6: Colecciones y Listas**. Se util
 - **Control de versiones:** Git y GitHub
 - **Organización del trabajo:** Trello
 
-## Cómo ejecutar el proyecto
+##  Cómo ejecutar el proyecto
 
 El proyecto se encuentra en etapa de desarrollo. Las instrucciones de instalación y ejecución se agregarán cuando la implementación esté finalizada.
 
-## 🧪 Pruebas
+##  Pruebas
 
 Se documentarán pruebas para verificar:
 
@@ -47,6 +47,9 @@ Se documentarán pruebas para verificar:
 - El control de códigos repetidos.
 - La organización por plataforma.
 
+##  Capturas de pantalla
+
+En esta sección se agregarán imágenes del sistema en funcionamiento y de sus principales opciones.
 
 ## 👥 Integrantes
 
