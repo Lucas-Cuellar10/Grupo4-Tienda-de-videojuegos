@@ -36,5 +36,5 @@ Verificar que las principales funcionalidades del sistema GameStore funcionen co
 
 ## Estado de las pruebas
 Pendientes de ejecución hasta completar el desarrollo del sistema
-Pendientes de ejecución hasta completar el desarrollo del sistema.
+
 
